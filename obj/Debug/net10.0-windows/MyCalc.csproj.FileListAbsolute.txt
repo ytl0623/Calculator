@@ -1,0 +1,14 @@
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\bin\Debug\net10.0-windows\MyCalc.exe
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\bin\Debug\net10.0-windows\MyCalc.deps.json
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\bin\Debug\net10.0-windows\MyCalc.runtimeconfig.json
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\bin\Debug\net10.0-windows\MyCalc.dll
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\bin\Debug\net10.0-windows\MyCalc.pdb
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\obj\Debug\net10.0-windows\MyCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\obj\Debug\net10.0-windows\MyCalc.AssemblyInfoInputs.cache
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\obj\Debug\net10.0-windows\MyCalc.AssemblyInfo.cs
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\obj\Debug\net10.0-windows\MyCalc.csproj.CoreCompileInputs.cache
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\obj\Debug\net10.0-windows\MyCalc.dll
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\obj\Debug\net10.0-windows\refint\MyCalc.dll
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\obj\Debug\net10.0-windows\MyCalc.pdb
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\obj\Debug\net10.0-windows\MyCalc.genruntimeconfig.cache
+C:\Users\mini_pc1\Desktop\canliu\backup\MyCalc\obj\Debug\net10.0-windows\ref\MyCalc.dll

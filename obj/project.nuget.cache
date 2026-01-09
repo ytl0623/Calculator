@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqv/QRQle1k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mini_pc1\\Desktop\\canliu\\backup\\MyCalc\\MyCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mini_pc1\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.1\\microsoft.net.illink.tasks.10.0.1.nupkg.sha512",
+    "C:\\Users\\mini_pc1\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.1\\microsoft.netcore.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\mini_pc1\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\mini_pc1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.1\\microsoft.aspnetcore.app.runtime.win-x64.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
